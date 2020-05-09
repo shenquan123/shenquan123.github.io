@@ -8,7 +8,7 @@
       <p><b>地址：广西容县杨梅镇和勃村和勃四队6号，邮编537503</b></p>
     </td>
     <td width="25%">
-      <img src="/zhengjianzhao.jpg" width="100%">      
+      <img src="/图片2.jpg" width="100%">      
     </td>
   </tr>
 </table>
